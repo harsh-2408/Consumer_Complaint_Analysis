@@ -35,3 +35,4 @@ This project focuses on analyzing consumer complaints data to uncover key trends
 
 ![Consumer Complaint Dashboard](dashboard.png)
 
+
