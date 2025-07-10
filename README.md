@@ -33,7 +33,9 @@ This project focuses on analyzing consumer complaints data to uncover key trends
 
 ## 📊 Project Dashboard
 
-![Dashboard](https://raw.githubusercontent.com/your-username/your-repo-name/main/dashboard.png)
+![Consumer Complaint Dashboard](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/dashboard.png)
+
+
 
 
 
